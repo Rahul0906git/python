@@ -1,17 +1,3 @@
-a = 1+2
-print(a)
-
-b = 5
-print(b)
-
-rahu = 234.22
-print(rahu)
-
-print(type(rahu))
-
-a = "fdgfg"
-print(type(a))
-print(a)
 
 # Complex number
 a = 5 + 6j
@@ -40,6 +26,7 @@ print(a)
 
 a,b = 12,34
 print(a,b)
+
 
 a0 = 123
 print(a0)
