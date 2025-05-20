@@ -77,6 +77,3 @@ print(y[2:20])
 print(y[-1:-6:-1])
 print(y[10:0:-1])
 print(y[0])
-print
-
-
